@@ -1,0 +1,10 @@
+category,line_item,basis_of_estimate,funder_request_usd,other_income_usd,total_usd,notes
+Personnel,Program Coordinator (0.5 FTE x 12 mo),annual salary x FTE x months,0.00,0.00,0.00,"Name the role and time split, not the person"
+Personnel,Fringe benefits,% of requested salaries,0.00,0.00,0.00,"Use your org's actual loaded rate"
+Travel,Local program travel,"miles x IRS rate, or monthly passes",0.00,0.00,0.00,"Site visits and participant outreach only"
+Equipment,,per-unit cost x quantity,0.00,0.00,0.00,"Items over $5,000; most small grants need none"
+Supplies,,per-unit cost x quantity,0.00,0.00,0.00,"Consumables tied to program activities"
+Contractual,,quote or hourly rate x hours,0.00,0.00,0.00,"Evaluator, translator, bookkeeper — name the service"
+Other direct,,estimate x source,0.00,0.00,0.00,"Rent share, printing, participant costs"
+Indirect,Indirect cost (de minimis),% of modified total direct costs,0.00,0.00,0.00,"Check the funder's cap — commonly 10%"
+TOTAL,,sum of all rows above,0.00,0.00,0.00,"Funder request + other income must equal program total"

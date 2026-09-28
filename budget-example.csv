@@ -1,0 +1,9 @@
+category,line_item,basis_of_estimate,funder_request_usd,other_income_usd,total_usd,notes
+Personnel,Program Coordinator (0.5 FTE x 12 mo),"$40,000 annual salary x 0.5 FTE",15000.00,5000.00,20000.00,"Role funded 50% by this grant, 50% by org funds"
+Personnel,Fringe benefits,14% of salaries,2100.00,700.00,2800.00,"Use your org's actual loaded rate"
+Travel,Local program travel,$100/month transit and mileage,1200.00,0.00,1200.00,"Site visits and participant outreach"
+Supplies,Program materials,$25 x 40 participants,1000.00,0.00,1000.00,"Workbooks and consumables"
+Contractual,External evaluator,20 hours x $100,2000.00,0.00,2000.00,"Pre/post outcome measurement"
+Other direct,Printing and communications,vendor quotes,700.00,0.00,700.00,"Flyers, translation of materials"
+Indirect,Indirect cost (de minimis),"10% of direct costs ($27,700)",2770.00,0.00,2770.00,"De minimis rate — check the funder's cap"
+TOTAL,,sum of all rows above,24770.00,5700.00,30470.00,"Funder request $24,770 of a $30,470 program"
